@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/praktikum-strukturdata-2026/postest/postest4",
-      "program": "d:/praktikum-strukturdata-2026/postest/postest4/build/Debug/outDebug",
+      "cwd": "d:/praktikum-strukturdata-2026/postest/postest5",
+      "program": "d:/praktikum-strukturdata-2026/postest/postest5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
